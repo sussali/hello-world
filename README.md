@@ -1,2 +1,4 @@
 # hello-world
-learning
+Hi, 
+ 
+I am Sueli, Telecomunications Engineering student, curious, always learning. 
